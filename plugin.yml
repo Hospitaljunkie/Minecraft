@@ -1,0 +1,7 @@
+name: <Your plugin name here>
+main: <mainPackage>.<mainClass name>
+version: <plugin version>
+commands:
+  <command>
+  <command>
+  <make sure it's 2 spaces for commands>
